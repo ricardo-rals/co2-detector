@@ -3,7 +3,9 @@
 ## a) Escopo do Projeto
 
 ### Apresentação do Projeto
-O projeto consiste em um simulador de detecção de gás CO2, utilizando um joystick para simular a leitura de níveis de CO2 e um botão para controlar um exaustor que reduz os níveis de CO2 no ambiente. O sistema também utiliza um LED RGB e um buzzer para indicar os níveis de CO2 e alertar o usuário.
+Este projeto consiste em um sistema embarcado que simula a detecção de gás CO2 em um ambiente fechado. O sistema utiliza um joystick para simular a leitura dos níveis de CO2, um botão para controlar um exaustor que reduz os níveis de CO2, um LED RGB para indicar o estado do ambiente, um buzzer para alertas sonoros e um display OLED para exibir informações em tempo real.
+
+O projeto foi desenvolvido como parte do curso de Sistemas Embarcados e utiliza conceitos de programação em C, controle de periféricos (ADC, PWM, I2C, GPIO) e integração de hardware e software.
 
 ### Título do Projeto
 **Simulador de Detecção de Gás CO2 com Controle de Exaustor**
