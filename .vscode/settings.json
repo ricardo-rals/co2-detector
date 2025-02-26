@@ -40,6 +40,7 @@
         "controle-leds.h": "c",
         "display.h": "c",
         "buzzer.h": "c",
-        "botoes.h": "c"
+        "botoes.h": "c",
+        "co2-controle.h": "c"
     }
 }
