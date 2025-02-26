@@ -39,6 +39,7 @@
     "files.associations": {
         "controle-leds.h": "c",
         "display.h": "c",
-        "buzzer.h": "c"
+        "buzzer.h": "c",
+        "botoes.h": "c"
     }
 }
