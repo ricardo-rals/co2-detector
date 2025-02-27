@@ -73,7 +73,7 @@ O projeto está organizado nos seguintes arquivos:
 4. Observe as informações no display OLED e os alertas sonoros do buzzer.
 
 ## Vídeo de Demonstração
-Assista ao vídeo de demonstração do projeto: [Link do Vídeo](link-do-video)
+Assista ao vídeo de demonstração do projeto: [Simulador de Detecção de Gás CO2](https://youtu.be/nWVuBp3Eg_Y)
 
 ## Relatório completo
 [Relatório do Projeto: Simulador de Detecção de Gás CO2](https://docs.google.com/document/d/1T2vYlnPl2az3kbAuUnCv0KYfSd7e1Vl2TWFm-3X83qc/edit?usp=sharing)
